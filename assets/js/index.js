@@ -1,6 +1,6 @@
 // TODO: Include packages needed for this application
 const inquirer = require('inquirer');
-const writeDown = require('./writeDown');
+const generateData = require('./writeDown');
 const fs = require('fs');
 console.log(inquirer)
 
@@ -13,6 +13,16 @@ console.log(inquirer)
         type: 'input',
         message: "What is the name of your project?",
         name: "name"
+    },
+    {
+        type: 'input',
+        message: "What is your email?",
+        name: "email"
+    },
+    {
+        type: 'input',
+        message: "What is your Github username?",
+        name: "username"
     },
     {
         type: 'input',
@@ -42,7 +52,7 @@ console.log(inquirer)
     {
         type: 'list',
         message: "What license is used?",
-        name: "licence",
+        name: "license",
         choices: [
             {
                 name:"MIT License",
