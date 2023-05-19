@@ -16,6 +16,9 @@ readme-gen
 
     
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+
+![Screenshot](./assets/js/img/readmegen.JPG)
+![Screenshot](./assets/js/img/readmegenn.JPG)
     
 ### Description
     

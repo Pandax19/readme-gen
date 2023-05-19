@@ -19,7 +19,7 @@ readme-gen
     
 ### Description
     
-In this project I used node js to create a readme generator that allows the user to input data through a series of prompts  and creates a completed readme.md file.
+created a readme generator to gather data from user via prompts and complie a complete readme
     
 ### Link
 
@@ -27,7 +27,7 @@ https://opensource.org/license/mit-0/
 
 ### Installation
 
-npm i inquirer@8.2.4
+npm i --save inquirer@8.2.4
 
 ### Usage
 
@@ -35,11 +35,11 @@ inside the terminal
 
 ### Contribute
 
-contact me though email
+email me
 
 ### Tested
 
-manually tested at milestones
+manually during milestones
 
 ### Questions
 
