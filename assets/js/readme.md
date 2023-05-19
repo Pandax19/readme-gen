@@ -19,7 +19,7 @@ readme-gen
     
 ### Description
     
-created a readme generator to gather data from user via prompts and complie a complete readme
+created a readme generator which allows a user to follow a series of prompts about a projects and it compiles the data into a complete readme.md file.
     
 ### Link
 
@@ -31,7 +31,7 @@ npm i --save inquirer@8.2.4
 
 ### Usage
 
-inside the terminal
+terminal
 
 ### Contribute
 
@@ -39,7 +39,7 @@ email me
 
 ### Tested
 
-manually during milestones
+manually through milestones
 
 ### Questions
 
