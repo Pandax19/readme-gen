@@ -1,6 +1,6 @@
 ### Name
 
-sdf
+readme-gen
 
 ## Table of Contents 
 
@@ -19,7 +19,7 @@ sdf
     
 ### Description
     
-sdfg
+In this project I used node js to create a readme generator that allows the user to input data through a series of prompts  and creates a completed readme.md file.
     
 ### Link
 
@@ -27,23 +27,23 @@ https://opensource.org/license/mit-0/
 
 ### Installation
 
-sdfg
+npm i inquirer@8.2.4
 
 ### Usage
 
-sdfg
+inside the terminal
 
 ### Contribute
 
-sdfg
+contact me though email
 
 ### Tested
 
-sdfg
+manually tested at milestones
 
 ### Questions
 
-If you have any questions about the repo, open an issue or contact me directly at gsdfg. You can find more of my work at [sdfg](https://github.com/sdfg/).
+If you have any questions about the repo, open an issue or contact me directly at ajwhitley@comcast.net. You can find more of my work at [Pandax19](https://github.com/Pandax19/).
 
 
 ### Section 
