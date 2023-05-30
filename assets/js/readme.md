@@ -1,6 +1,6 @@
 ### Name
 
-readme-gen
+note-taker
 
 ## Table of Contents 
 
@@ -19,7 +19,7 @@ readme-gen
     
 ### Description
     
-created a readme generator which allows a user to follow a series of prompts about a projects and it compiles the data into a complete readme.md file.
+the goal of this project was to create a note-taker app using express.js and other js files, using routes to receive, save and delete data from a user, and deploy it with heroku.
     
 ### Link
 
@@ -27,11 +27,11 @@ https://opensource.org/license/mit-0/
 
 ### Installation
 
-npm i --save inquirer@8.2.4
+npm i
 
 ### Usage
 
-terminal
+heroku or github link
 
 ### Contribute
 
